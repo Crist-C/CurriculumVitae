@@ -1,0 +1,60 @@
+            body{
+                color: darkgray;
+                text-align: center;
+                margin: 0;
+                background-color:  #282828
+            }
+/* va con # porque se refiere al id */
+            #nombre{
+                color: darkred;
+                font-size: 50px;
+                text-shadow: 4px 4px 5px black;
+                font-family: 'Lora', serif;
+            }
+            .skills{
+                color: rgb(0, 0, 0);
+                font-size: 30px;
+                text-shadow: 2px 2px 5px crimson;
+                font-family: 'Loved by the King', cursive;
+            }
+            .parrafo{
+                font-size: 18px;
+                color: black;
+                text-shadow: 2px 2px 5px red;
+                text-align: center;
+                padding: 10px 16px;
+            }      
+            .parrafo2{
+                font-size: 20px;
+                color: rgb(24, 4, 4);
+                text-shadow: 2px 2px 5px rgb(85, 2, 85);
+            }
+            h1{
+                font-family: 'Lora', serif;              
+            }
+            ul{
+                list-style-position: inside;
+            }
+            ol{
+                list-style-position: inside;
+            }
+            footer{
+                text-align: left;
+            }
+            .contac a{
+                text-decoration: none;
+                color: darkturquoise;
+                font-size: 20px;
+                padding: 8px 12px;
+            }
+            .contac a:hover{
+                background-color: darkslategrey;
+                color: aliceblue;
+                border-radius: 10px;
+                border: solid darkmagenta 2px; 
+            }
+            .profile-description{
+                text-decoration: none;
+                color: crimson;
+                font-size: 20px;
+            }
