@@ -2,11 +2,11 @@
                 color: darkgray;
                 text-align: center;
                 margin: 0;
-                background-color:  #282828
+                background-color:  #dfdfdf
             }
 /* va con # porque se refiere al id */
             #nombre{
-                color: darkred;
+                color: rgb(127, 18, 129);
                 font-size: 50px;
                 text-shadow: 4px 4px 5px black;
                 font-family: 'Lora', serif;
@@ -14,7 +14,7 @@
             .skills{
                 color: rgb(0, 0, 0);
                 font-size: 30px;
-                text-shadow: 2px 2px 5px crimson;
+                text-shadow: 2px 2px 5px rgb(145, 2, 184);
                 font-family: 'Loved by the King', cursive;
             }
             .parrafo{
@@ -43,7 +43,7 @@
             }
             .contac a{
                 text-decoration: none;
-                color: darkturquoise;
+                color: rgb(5, 75, 76);
                 font-size: 20px;
                 padding: 8px 12px;
             }
@@ -55,6 +55,6 @@
             }
             .profile-description{
                 text-decoration: none;
-                color: crimson;
+                color: rgb(36, 7, 76);
                 font-size: 20px;
             }
